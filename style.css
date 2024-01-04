@@ -26,14 +26,17 @@
 }
 .btn1{
     margin-left: 77px;
-    background-color: blue;
-    color: white;
+    background-color: blue; 
     width: 100px;
     height: 30px;
     border-radius: 5px;
-    border-color: blue;
-    font-weight: bold;
+    border-color: blue;  
+}
+.txtbtn{
+    text-decoration: none;
+    color: white;
     font-size: 16px;
+    font-weight: bold;
 }
 .btn2{
     margin-left: 1000px;
@@ -46,6 +49,12 @@
     border-radius: 5px;
     border-color: blue;
 }
+.txtbtn2{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
 .div2{
     padding-top: 20px;
     display: flex;
@@ -53,7 +62,7 @@
 }
 .card{
     background-color: white;
-    height: 250px;
+    height: 180px;
     margin-left: 70px;
     width: 300px;
     border-radius: 10px;
@@ -62,36 +71,120 @@
 }
 .benefits{
     color: blue;
-    padding-top: 40px;
+    padding-top:40px;
     padding-left: 580px;
 }
 .skill{
-    margin-top: 100px;
+    margin-top: 20px;
     margin-left: 50px;
     font-weight: bold;
 }
-.skilltext{
-    margin-left: 40px;
+.skillimg{
+    width: 140px;
+    height: 100px;
+    margin-left: 85px;
+    margin-top: 15px;
 }
+
 .decision{
     margin-left: 20px;
-    
+    margin-top: 30px;
 }
-.decisiontext{
-    margin-left: 18px;
-}
+
 .decisionimg{
-    width: 90px;
-    height: 70px;
+    width: 100px;
+    height: 90px;
     margin-left: 100px;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 .job{
     font-size: 17px;
     font-weight: bold;
-    margin-top: 100px;
+    margin-top: 20px;
     margin-left: 7px;
 }
-.jobtext{
-    margin-left: 22px;
+.jobimg{
+    width: 150px;
+    height: 100px;
+    margin-left: 75px;
+    margin-top: 15px;
 }
+.footer{
+    height: 50px;
+    margin-top: 100px;
+    background-color: blue;
+    width: 100%;
+}
+.footertext{
+    padding-top: 15px;
+    padding-left: 600px;
+    color: white;
+}
+/*second page
+*/
+.question{
+    margin-left: 30px;
+}
+
+
+
+
+
+/*
+
+practice work
+
+.flex-container{
+    padding: 0;
+    margin: 0;
+    list-style:none;
+    float: left;
+    width: 120px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid silver;
+    margin-top: 10px;
+    display: flex;
+    animation: wendu 2s infinite ;
+}
+@keyframes wendu {
+    0%{
+        background-color: orange;
+    }
+    50%{
+        background-color: blueviolet;
+    }
+    100%{
+        background-color: brown;
+    }
+}
+.box{
+    background-color: red;
+    width: 4rem;
+    height: 4rem;
+     
+}
+.box-1{
+    background-color: blue;
+    animation: edmund 2s infinite;
+}
+@keyframes edmund{
+    0%{
+        background-color: black;
+    }
+    50%{
+        background-color: yellow;
+    }
+    100%{
+        background-color: blueviolet;
+    }
+}
+.box-2{
+background-color: green;
+}
+.box-3{
+    background-color: purple;
+    
+}
+*/
+
