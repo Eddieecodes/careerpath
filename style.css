@@ -4,9 +4,11 @@
 }
 .hometext{
     color: blue;
-    padding-left: 80px;
+    text-align: left;
+    padding-left: 50px;
     padding-top: 40px;
     font-size: 45px;
+    flex-wrap: wrap;
 }
 .nav{
     display: flex;
@@ -18,14 +20,16 @@
     padding-right: 65px;
     padding-top: 25px;
     border-radius: 5px;
+    
 }
 .paragraph1{
-    padding-left: 80px;
+    text-align: left;
+    padding-left: 50px;
     color: blue;
     
 }
 .btn1{
-    margin-left: 77px;
+    margin-left: 50px;
     background-color: blue; 
     width: 100px;
     height: 30px;
@@ -59,6 +63,7 @@
     padding-top: 20px;
     display: flex;
     padding-left: 55px;
+    flex-wrap: wrap;
 }
 .card{
     background-color: white;
@@ -72,7 +77,7 @@
 .benefits{
     color: blue;
     padding-top:40px;
-    padding-left: 580px;
+    text-align: center;
 }
 .skill{
     margin-top: 20px;
@@ -117,14 +122,85 @@
 }
 .footertext{
     padding-top: 15px;
-    padding-left: 600px;
+    text-align: center;
     color: white;
 }
 /*second page
 */
 .question{
     margin-left: 30px;
+    color: blue;
 }
+.form1{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    font-weight: bold;
+}
+.form2{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form3{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form4{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form5{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form6{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form7{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form8{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form9{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form10{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
 
 
 
